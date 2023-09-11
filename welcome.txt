@@ -1,4 +1,9 @@
 Welcome
 
 Welcome to first-repo
+<<<<<<< HEAD
 Feel free to say hi
+=======
+
+Say hello!
+>>>>>>> 2ef700fa15e521a38ef3f213d687a6166a7436da
